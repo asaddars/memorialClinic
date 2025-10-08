@@ -1,5 +1,6 @@
 const nextConfig = {
   output: 'export',
+  srcDir: 'src',
   images: { unoptimized: true },
   basePath: '/qaziabdulrazamemorialclinic',
   assetPrefix: '/qaziabdulrazamemorialclinic/',
