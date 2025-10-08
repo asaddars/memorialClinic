@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmitOnError": false,
+    "skipLibCheck": true,
+    "strict": false,
+    "isolatedModules": true
+  },
+  "exclude": [
+    ".next",
+    "node_modules"
+  ]
+}
